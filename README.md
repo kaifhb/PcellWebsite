@@ -1,6 +1,6 @@
 # PCell Website
 
-The PCell Website is  comprehensive platform designed to manage and streamline placement-related activities. It offers features such as user authentication, announcement management, placement stats, and role-based access control for seamless coordination between users and admins.
+The PCell Website is a comprehensive platform designed to manage and streamline placement-related activities. It offers features such as user authentication, announcement management, placement stats, and role-based access control for seamless coordination between users and admins.
 
 ## Live Demo
 
