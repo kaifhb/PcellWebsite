@@ -6,7 +6,7 @@ A comprehensive platform to streamline placement-related activities with feature
 
 ## 🌐 **Live Demo**
 
-🔗 **[PCell Website](https://pcell-frontend-deploy-iok8.vercel.app/)**
+🔗 **[Pcell Website](https://pcell-frontend-deploy-iok8.vercel.app/)**
 
 ---
 
