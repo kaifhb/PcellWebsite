@@ -1,6 +1,16 @@
+
 # 🌟 **Pcell Website**
 
 A comprehensive platform to streamline placement-related activities with features like user authentication, announcement management, placement stats, and role-based access control. This README outlines the functionality, API endpoints, setup, and technologies used.
+
+---
+
+## 🧪 **Testing the Website**
+
+Use the following credentials to test the website:
+
+- **Email:** mohdkaif.796hb@gmail.com  
+- **Password:** 2020-05-13  
 
 ---
 
